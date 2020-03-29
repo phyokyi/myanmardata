@@ -1,0 +1,21 @@
+﻿SR_Pcode,SR_Name_Eng,SR_Name_MMR,MYAINFO_SD_ID,Source,Start_Date,Modified_End_Date,Notification,Notification_modified,SR_Status,Change_Type,Remark
+MMR001,Kachin,ကချင်ပြည်နယ်,ASIMMR001,GAD,31-Mar-15,,,,Active,,
+MMR002,Kayah,ကယားပြည်နယ်,ASIMMR002,GAD,31-Mar-15,,,,Active,,
+MMR003,Kayin,ကရင်ပြည်နယ်,ASIMMR003,GAD,31-Mar-15,,,,Active,,
+MMR004,Chin,ချင်းပြည်နယ်,ASIMMR004,GAD,31-Mar-15,,,,Active,,
+MMR005,Sagaing,စစ်ကိုင်းတိုင်းဒေသကြီး,ASIMMR005,GAD,31-Mar-15,,,,Active,,
+MMR006,Tanintharyi,တနင်္သာရီတိုင်းဒေသကြီး,ASIMMR006,GAD,31-Mar-15,,,,Active,,
+MMR007,Bago (East),ပဲခူးတိုင်းဒေသကြီး (အရှေ့),ASIMMR008,NA,31-Mar-15,,,,Active,,
+MMR008,Bago (West),ပဲခူးတိုင်းဒေသကြီး (အနောက်),ASIMMR008,NA,31-Mar-15,,,,Active,,
+MMR009,Magway,မကွေးတိုင်းဒေသကြီး,ASIMMR009,GAD,31-Mar-15,,,,Active,,
+MMR010,Mandalay,မန္တလေးတိုင်းဒေသကြီး,ASIMMR010,GAD,31-Mar-15,,,,Active,,
+MMR011,Mon,မွန်ပြည်နယ်,ASIMMR011,GAD,31-Mar-15,,,,Active,,
+MMR012,Rakhine,ရခိုင်ပြည်နယ်,ASIMMR012,GAD,31-Mar-15,,,,Active,,
+MMR013,Yangon,ရန်ကုန်တိုင်းဒေသကြီး,ASIMMR013,GAD,31-Mar-15,,,,Active,,
+MMR014,Shan (South),ရှမ်းပြည်နယ် (တောင်),ASIMMR014,NA,31-Mar-15,,,,Active,,
+MMR015,Shan (North),ရှမ်းပြည်နယ် (မြောက်),ASIMMR015,NA,31-Mar-15,,,,Active,,
+MMR016,Shan (East),ရှမ်းပြည်နယ် (အရှေ့),ASIMMR016,NA,31-Mar-15,,,,Active,,
+MMR017,Ayeyarwady,ဧရာဝတီတိုင်းဒေသကြီး,ASIMMR017,GAD,31-Mar-15,,,,Active,,
+MMR018,Nay Pyi Taw,နေပြည်တော်,ASIMMR018,GAD,31-Mar-15,,,,Active,,
+MMR111,Bago,ပဲခူးတိုင်းဒေသကြီး,ASIMMR111,GAD,31-Mar-15,,,,Active,,Just for the whole Bago Region
+MMR222,Shan,ရှမ်းပြည်နယ်,ASIMMR222,GAD,31-Mar-15,,,,Active,,Just for the whole Shan State
